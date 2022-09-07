@@ -15,5 +15,3 @@ build.gradle에서 tasks.bootJar 주석 풀기
 ```shell
 ./gradlew bootJar
 ```
-
-test
